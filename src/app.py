@@ -43,7 +43,9 @@ activities = {
     "Soccer Team": {
         "description": "Join the school soccer team and compete in local leagues",
         "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
-        "max_participants": 18,
+
+        "max_participants": 22,
+
         "participants": ["lucas@mergington.edu", "mia@mergington.edu"]
     },
     "Basketball Club": {
@@ -54,29 +56,33 @@ activities = {
     },
     # Artistic activities
     "Art Club": {
-        "description": "Explore painting, drawing, and other visual arts",
+
+        "description": "Explore painting, drawing, and sculpture with peers",
         "schedule": "Mondays, 3:30 PM - 5:00 PM",
-        "max_participants": 16,
-        "participants": ["ella@mergington.edu", "noah@mergington.edu"]
+        "max_participants": 18,
+        "participants": ["isabella@mergington.edu", "noah@mergington.edu"]
     },
     "Drama Society": {
-        "description": "Participate in theater productions and acting workshops",
-        "schedule": "Thursdays, 4:00 PM - 5:30 PM",
+        "description": "Participate in acting, stage production, and school plays",
+        "schedule": "Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 20,
-        "participants": ["amelia@mergington.edu", "jack@mergington.edu"]
+        "participants": ["amelia@mergington.edu", "benjamin@mergington.edu"]
     },
     # Intellectual activities
-    "Mathletes": {
-        "description": "Compete in math competitions and solve challenging problems",
-        "schedule": "Fridays, 2:00 PM - 3:30 PM",
-        "max_participants": 10,
-        "participants": ["oliver@mergington.edu", "charlotte@mergington.edu"]
+    "Math Olympiad": {
+        "description": "Prepare for math competitions and solve challenging problems",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": ["elijah@mergington.edu", "charlotte@mergington.edu"]
+
     },
     "Science Club": {
         "description": "Conduct experiments and explore scientific concepts",
         "schedule": "Wednesdays, 4:00 PM - 5:00 PM",
         "max_participants": 14,
-        "participants": ["benjamin@mergington.edu", "grace@mergington.edu"]
+
+        "participants": ["jack@mergington.edu", "harper@mergington.edu"]
+
     }
 }
 
